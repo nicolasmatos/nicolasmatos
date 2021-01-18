@@ -1,16 +1,74 @@
 ### Hi there 👋
+<div align="center">
+  <a href="https://github.com/nicolasmatos">
+    <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=nicolasmatos.nicolasmatos">
+  </a>
+  <a href="https://github.com/nicolasmatos">
+    <img align="center" src="https://img.shields.io/github/followers/nicolasmatos?label=Follow&style=social">
+  </a>
+</div>
 
-<!--
-**nicolasmatos/nicolasmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✉️ Find me on:
+<div align="center">
+  <a href="mailto:nicolas@matos.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?&style=flat-square&logo=gmail&logoColor=white" alt="E-mail" title="E-mail">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/nicolas-matos-b76497103" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn">
+  </a>
 
-Here are some ideas to get you started:
+  <a href="https://www.facebook.com/nicolasmatos00" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook" title="Facebook">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.instagram.com/nicolasmatos00" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" title="Instagram">
+  </a>
+
+  <a href="https://twitter.com/nicolasmatos00" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter" title="Twitter">
+  </a>
+  
+  <a href="https://bitbucket.org/nicolasmatos" target="_blank">
+    <img src="https://img.shields.io/badge/Bitbucket-blue?&style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket" title="Bitbucket">
+  </a>
+
+  <a href="https://medium.com/@nicolasmatos" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-black?&style=flat-square&logo=medium&logoColor=white" alt="Medium" title="Medium">
+  </a>
+  
+  <a href="https://open.spotify.com/user/nicollasmattos" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-green?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify" title="Spotify">
+  </a>
+</div>
+ 
+## 🧰 Languages and Tools:
+<div align="center">
+  
+  ![PHP](https://img.shields.io/badge/PHP-white?style=flat-square&logo=php)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python)
+  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=black)
+  ![SQL](http://img.shields.io/badge/MySQL-3776AB?style=flat-square&logo=mysql&logoColor=ffffff)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3)
+  ![Laravel](https://img.shields.io/badge/Laravel-%23CC6699?style=flat-square&logo=laravel&logoColor=ffffff)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+  ![Azure](https://img.shields.io/badge/Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
+  ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+  ![GitHub](https://img.shields.io/badge/Bitbucket-blue?style=flat-square&logo=bitbucket)
+  ![Windows](http://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+  ![Linux](http://img.shields.io/badge/Ubuntu-white?style=flat-square&logo=ubuntu)
+</div>
+
+## :trophy: My Github Stats:
+<div align="center">
+  <a href="https://github.com/nicolasmatos">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasmatos&count_private=true&show_icons=true&theme=react&layout=compact"/>
+  </a>
+  <a href="https://github.com/nicolasmatos">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmatos&count_private=true&show_icons=true&theme=react&layout=compact"/>
+  </a>
+</div>
