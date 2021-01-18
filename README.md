@@ -66,9 +66,9 @@
 ## :trophy: My Github Stats:
 <div align="center">
   <a href="https://github.com/nicolasmatos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasmatos&count_private=true&show_icons=true&theme=react&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasmatos&count_private=true&include_all_commits=true&hide=contribs,prs&show_icons=true&theme=react">
   </a>
   <a href="https://github.com/nicolasmatos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmatos&count_private=true&show_icons=true&theme=react&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmatos&count_private=true&include_all_commits=true&layout=compact&theme=react">
   </a>
 </div>
