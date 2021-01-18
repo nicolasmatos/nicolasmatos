@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center"> Hi there! </h2>
 <div align="center">
   <a href="https://github.com/nicolasmatos">
     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=nicolasmatos.nicolasmatos">
@@ -8,7 +8,7 @@
   </a>
 </div>
 
-## ✉️ Find me on:
+<h2 align="center"> ✉️ Find me on: </h2>
 <div align="center">
   <a href="mailto:nicolas@matos.dev.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?&style=flat-square&logo=gmail&logoColor=white" alt="E-mail" title="E-mail">
@@ -42,8 +42,8 @@
     <img src="https://img.shields.io/badge/Spotify-green?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify" title="Spotify">
   </a>
 </div>
- 
-## 🧰 Languages and Tools:
+
+<h2 align="center"> 🧰 Languages and Tools: </h2>
 <div align="center">
   
   ![PHP](https://img.shields.io/badge/PHP-white?style=flat-square&logo=php)
@@ -63,7 +63,7 @@
   ![Linux](http://img.shields.io/badge/Ubuntu-white?style=flat-square&logo=ubuntu)
 </div>
 
-## :trophy: My Github Stats:
+<h2 align="center"> :trophy: My Github Stats: </h2>
 <div align="center">
   <a href="https://github.com/nicolasmatos">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasmatos&count_private=true&include_all_commits=true&hide=contribs,prs&show_icons=true&theme=react">
