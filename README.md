@@ -72,3 +72,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmatos&count_private=true&include_all_commits=true&layout=compact&theme=react">
   </a>
 </div>
+<div align="center">
+  <div data-image="https://raw.githubusercontent.com/nicolasmatos/nicolasmatos/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/nicolasmatos/nicolasmatos/output/github-contribution-grid-snake.svg">
+  </div>
+</div>
