@@ -66,11 +66,26 @@
 <h2 align="center"> :trophy: My Github Stats: </h2>
 <div align="center">
   <a href="https://github.com/nicolasmatos">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolasmatos&theme=monokai">
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/nicolasmatos">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasmatos&count_private=true&include_all_commits=true&hide=contribs,prs&show_icons=true&theme=react">
   </a>
   <a href="https://github.com/nicolasmatos">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmatos&count_private=true&include_all_commits=true&layout=compact&theme=react">
   </a>
+</div>
+<div align="center">
+  <a href=https://github.com/nicolasmatos">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasmatos&theme=react&date_format=j%20M%5B%20Y%5D">
+  </a>
+  <!--
+  <a href="https://github.com/nicolasmatos">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=nicolasmatos&theme=radical">
+  </a>
+  /-->
 </div>
 <div align="center">
   <div data-image="https://raw.githubusercontent.com/nicolasmatos/nicolasmatos/output/github-contribution-grid-snake.svg">
