@@ -48,18 +48,26 @@
   
   ![Aws](https://img.shields.io/badge/Aws-orange?style=flat-square&logo=amazon-aws&logoColor=ffffff)
   ![Azure](https://img.shields.io/badge/Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
+  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-blue?style=flat-square&logo=digitalocean&logoColor=ffffff)
+</div>
+<div align="center">
+  
   ![PHP](https://img.shields.io/badge/PHP-white?style=flat-square&logo=php)
+  ![Laravel](https://img.shields.io/badge/Laravel-%23CC6699?style=flat-square&logo=laravel&logoColor=ffffff)
   ![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=black)
   ![SQL](http://img.shields.io/badge/MySQL-3776AB?style=flat-square&logo=mysql&logoColor=ffffff)
   ![HTML5](https://img.shields.io/badge/HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3)
-  ![Laravel](https://img.shields.io/badge/Laravel-%23CC6699?style=flat-square&logo=laravel&logoColor=ffffff)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+  ![Jquery](https://img.shields.io/badge/jQuery-blue?style=flat-square&logo=jQuery)
+</div>
+<div align="center">
+  
   ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
   ![GitHub](https://img.shields.io/badge/Bitbucket-blue?style=flat-square&logo=bitbucket)
+  ![GitHub](https://img.shields.io/badge/GitLab-orange?style=flat-square&logo=gitlab)
   ![Windows](http://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
   ![Linux](http://img.shields.io/badge/Ubuntu-white?style=flat-square&logo=ubuntu)
 </div>
@@ -92,4 +100,24 @@
   <div data-image="https://raw.githubusercontent.com/nicolasmatos/nicolasmatos/output/github-contribution-grid-snake.svg">
     <img src="https://raw.githubusercontent.com/nicolasmatos/nicolasmatos/output/github-contribution-grid-snake.svg">
   </div>
+</div>
+
+
+<h2 align="center"> :trophy: Emblems: </h2>
+<h3 align="center">Jornada Devop de Elite</h3>
+<div align="center">
+<a href="https://api.badgr.io/public/assertions/JZwob1TuT62PhW3FfvsmDg?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/JZwob1TuT62PhW3FfvsmDg/image"></a>
+
+<a href="https://api.badgr.io/public/assertions/phmJvaeqTRWbM5NHERwZAg?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/phmJvaeqTRWbM5NHERwZAg/image"></a>
+
+<a href="https://api.badgr.io/public/assertions/479dB-1BSFOnT2i05LuXtA?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/479dB-1BSFOnT2i05LuXtA/image"></a>
+
+<a href="https://api.badgr.io/public/assertions/Mb3vtfQzTpa1kywK8TT3xA?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/Mb3vtfQzTpa1kywK8TT3xA/image"></a>
+
+<a href="https://api.badgr.io/public/assertions/hFfdpokwSUysw75zlLTf0g?identity__email=nicolasmatos0905%40gmail.com" target="_blank"> 
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/hFfdpokwSUysw75zlLTf0g/image" /></a> 
 </div>
