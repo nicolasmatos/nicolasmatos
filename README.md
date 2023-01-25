@@ -104,7 +104,7 @@
 
 
 <h2 align="center"> :trophy: Emblems: </h2>
-<h3 align="center">Jornada Devop de Elite</h3>
+<h3 align="center">Jornada Devop de Elite Outubro 2022</h3>
 <div align="center">
 <a href="https://api.badgr.io/public/assertions/JZwob1TuT62PhW3FfvsmDg?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
 	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/JZwob1TuT62PhW3FfvsmDg/image"></a>
@@ -120,4 +120,12 @@
 
 <a href="https://api.badgr.io/public/assertions/hFfdpokwSUysw75zlLTf0g?identity__email=nicolasmatos0905%40gmail.com" target="_blank"> 
 	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/hFfdpokwSUysw75zlLTf0g/image" /></a> 
+</div>
+<h3 align="center">Jornada Devop de Elite Janeiro 2023</h3>
+<div align="center">
+<a href="https://api.badgr.io/public/assertions/wrmCS6dqSum6Oi7aPGDzbw?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/wrmCS6dqSum6Oi7aPGDzbw/image"></a>
+
+<a href="https://api.badgr.io/public/assertions/u9QmSk9RQp29mQFXHy6PJQ?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/u9QmSk9RQp29mQFXHy6PJQ/image"></a>
 </div>
