@@ -131,4 +131,8 @@
 														   
 <a href="https://api.badgr.io/public/assertions/zlAHTWsqTD-frP3vYelsfA?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
 	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/zlAHTWsqTD-frP3vYelsfA/image"></a>
+														   
+<a href="https://api.badgr.io/public/assertions/ZFTO3oJeQcqlccN6AsAgsg?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/ZFTO3oJeQcqlccN6AsAgsg/image"></a>
+														   
 </div>
