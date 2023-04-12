@@ -139,3 +139,9 @@
 	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/wDTYsQmBT8aSPO8OibuvZg/image"></a>
 														   
 </div>
+<h3 align="center">Jornada Devop de Elite Abril 2023</h3>
+<div align="center">
+<a href="https://api.badgr.io/public/assertions/-YDgpUluQ5anO7Yek3jQuQ?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/-YDgpUluQ5anO7Yek3jQuQ/image"></a>
+														   
+</div>
