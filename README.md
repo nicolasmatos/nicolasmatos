@@ -147,6 +147,11 @@
 <a href="https://api.badgr.io/public/assertions/HR8QL1XeQVWVnSlxH9O5EQ?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
 	<img width="120px" height="120px" src="https://matos.dev.br/badges/DevOpsElite202304/2kubernetes.png"></a>													 
 <a href="https://api.badgr.io/public/assertions/akenthZpScOYCvIf9nczHw?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://matos.dev.br/badges/DevOpsElite202304/3terrafom.png"></a>
+	<img width="120px" height="120px" src="https://matos.dev.br/badges/DevOpsElite202304/3terrafom.png"></a>							 
+<a href="https://api.badgr.io/public/assertions/xmjuY0hlSySJi2yPrJNefA?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://matos.dev.br/badges/DevOpsElite202304/4CICD.png"></a>
+							 
+<a href="https://api.badgr.io/public/assertions/K2_-HI0LRTiJxh-3pD1o7w?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
+	<img width="120px" height="120px" src="https://matos.dev.br/badges/DevOpsElite202304/5prometheusgrafana.png"></a>
 														   
 </div>
