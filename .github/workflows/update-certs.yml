@@ -1,0 +1,56 @@
+# Updates the certifications block of README.md (between the markers
+# <!-- CERTS:START --> and <!-- CERTS:END -->) from the public Credly feed.
+# RF-08 / ADR-0001. Runs daily on cron + manually via workflow_dispatch.
+# Commits only when there is a diff; a failed fetch fails the job without committing.
+#
+# Repo prerequisites (configured in Settings):
+#   - Variables → CREDLY_USER = nicolasmatos
+#   - Actions → Workflow permissions = Read and write
+
+name: Update certifications from Credly
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily at 06:00 UTC (03:00 America/Fortaleza)
+  workflow_dispatch: {}      # manual run — validate before trusting the cron
+
+permissions:
+  contents: write            # required to commit the updated README
+
+concurrency:
+  group: update-certs
+  cancel-in-progress: false
+
+jobs:
+  update-certs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # If this step fails (network/HTTP/JSON error), the job stops here and the
+      # commit step below never runs — so no partial/empty block is ever committed.
+      - name: Update README certs section
+        env:
+          CREDLY_USER: ${{ vars.CREDLY_USER || 'nicolasmatos' }}
+          # Oracle count source (site Worker proxy). Override via repo variable if the
+          # Worker URL changes; defaults to the production endpoint.
+          ORACLE_URL: ${{ vars.ORACLE_URL || 'https://matos.dev.br/api/credly/external' }}
+        run: python .github/scripts/update_certs.py
+
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: update certifications from Credly [skip ci]"
+            git push origin HEAD:master
+          else
+            echo "No changes to README.md — nothing to commit."
+          fi

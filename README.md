@@ -1,157 +1,176 @@
-<h2 align="center"> Hi there! </h2>
+<h1 align="center">Nicolas Matos</h1>
+<h3 align="center">Cloud Architect &amp; Tech Lead</h3>
+<p align="center">
+  Building enterprise-grade AWS infrastructure and high-performance technical teams.<br>
+  16x Certified (12 AWS + 4 Oracle) &middot; pursuing the AWS Golden Jacket.
+</p>
+<p align="center"><em>Arquiteto de nuvem AWS enterprise e líder técnico — Fortaleza/CE, 100% remoto.</em></p>
+
 <div align="center">
   <a href="https://github.com/nicolasmatos">
-    <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=nicolasmatos.nicolasmatos">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=nicolasmatos.nicolasmatos" alt="Profile views">
   </a>
   <a href="https://github.com/nicolasmatos">
-    <img align="center" src="https://img.shields.io/github/followers/nicolasmatos?label=Follow&style=social">
+    <img src="https://img.shields.io/github/followers/nicolasmatos?label=Follow&style=social" alt="Followers">
   </a>
 </div>
 
-<h2 align="center"> ✉️ Find me on: </h2>
+---
+
+<h2 align="center">👨‍💻 About</h2>
+
+<p align="center">
+Cloud Architect with AWS + Oracle Cloud certifications, with a track record in both<br>
+enterprise solution architecture and technical team leadership.
+</p>
+
+- 🏗️ **3+ years at KXC** (AWS Partner in Brazil): grew from **Cloud Architect I → Tech Lead of 16 professionals**, while staying deeply hands-on — final escalation point for complex troubleshooting, pre-sales, enterprise architecture and IaC standards.
+- 👥 Built the technical management structure from scratch: squad model with distributed leadership, a 10-level career framework, individual development plans and transparent promotion criteria.
+- ☁️ Founder of **Matos Cloud Solutions** — cloud consulting focused on architecture, GenAI, DevOps, FinOps and security.
+- 🎯 Open to roles where I can architect enterprise solutions **and** develop teams — always close to the code and the console.
+
+---
+
+<h2 align="center">🏆 Certifications</h2>
+
+<!-- CERTS:START -->
+<h3 align="center">🏆 16x Certified — 12 AWS + 4 Oracle</h3>
+<p align="center"><em>Pursuing the AWS Golden Jacket (12/13 AWS — 1 remaining)</em></p>
+
+<p align="center">
+  <a href="https://www.credly.com/users/nicolasmatos/badges" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/AWS%20Certified-12x-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="12x AWS Certified">
+  </a>
+  <a href="https://www.credly.com/users/nicolasmatos/badges" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud-4x-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="4x Oracle Cloud Certified">
+  </a>
+  <a href="https://www.credly.com/users/nicolasmatos/badges" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Golden%20Jacket-12%2F13-FBBF24?style=for-the-badge&logo=amazonwebservices&logoColor=78350F" alt="Golden Jacket 12/13 AWS">
+  </a>
+</p>
+<p align="center">
+  <sub>AWS: 2 Professional · 2 Specialty · 6 Associate · 2 Foundational&nbsp;&nbsp;|&nbsp;&nbsp;Oracle Cloud: 4 certifications</sub>
+</p>
+<p align="center">
+  <a href="https://www.credly.com/users/nicolasmatos/badges" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View%20all%20on%20Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="View all badges on Credly">
+  </a>
+</p>
+<!-- CERTS:END -->
+
+> The block above is kept in sync automatically from the public [Credly](https://www.credly.com/users/nicolasmatos/badges) feed by a scheduled GitHub Action.
+
+---
+
+<h2 align="center">🧰 Tech Stack</h2>
+
 <div align="center">
-  <a href="mailto:nicolas@matos.dev.br" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?&style=flat-square&logo=gmail&logoColor=white" alt="E-mail" title="E-mail">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/nicolasmatos-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn">
-  </a>
-
-  <a href="https://www.facebook.com/nicolasmatos.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook" title="Facebook">
-  </a>
-
-  <a href="https://www.instagram.com/nicolasmatos.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" title="Instagram">
-  </a>
-
-  <a href="https://twitter.com/nicolasmatosdev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter" title="Twitter">
-  </a>
-  
-  <a href="https://bitbucket.org/nicolasmatos" target="_blank">
-    <img src="https://img.shields.io/badge/Bitbucket-blue?&style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket" title="Bitbucket">
-  </a>
-
-  <a href="https://medium.com/@nicolasmatos" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-black?&style=flat-square&logo=medium&logoColor=white" alt="Medium" title="Medium">
-  </a>
-  
-  <a href="https://open.spotify.com/user/nicollasmattos" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-green?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify" title="Spotify">
-  </a>
-</div>
-
-<h2 align="center"> 🧰 Languages and Tools: </h2>
-<div align="center">
-  
-  ![Aws](https://img.shields.io/badge/Aws-orange?style=flat-square&logo=amazon-aws&logoColor=ffffff)
-  ![Azure](https://img.shields.io/badge/Azure-blue?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
-  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-blue?style=flat-square&logo=digitalocean&logoColor=ffffff)
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Kubernetes%20%2F%20EKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes / EKS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GenAI%20%2F%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="GenAI / Bedrock">
 </div>
 <div align="center">
-  
-  ![PHP](https://img.shields.io/badge/PHP-white?style=flat-square&logo=php)
-  ![Laravel](https://img.shields.io/badge/Laravel-%23CC6699?style=flat-square&logo=laravel&logoColor=ffffff)
-  ![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=black)
-  ![SQL](http://img.shields.io/badge/MySQL-3776AB?style=flat-square&logo=mysql&logoColor=ffffff)
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-  ![Jquery](https://img.shields.io/badge/jQuery-blue?style=flat-square&logo=jQuery)
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 </div>
+<p align="center">
+  <sub>Also: CloudFormation · CDK · Helm · Karpenter · OpenTelemetry · X-Ray · Security (IAM, GuardDuty, Security Hub, KMS) · FinOps</sub>
+</p>
+
+---
+
+<h2 align="center">☁️ Consulting — Matos Cloud Solutions</h2>
+
+<p align="center">Cloud consulting for teams that need enterprise AWS done right.</p>
+
 <div align="center">
-  
-  ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-  ![GitHub](https://img.shields.io/badge/Bitbucket-blue?style=flat-square&logo=bitbucket)
-  ![GitHub](https://img.shields.io/badge/GitLab-orange?style=flat-square&logo=gitlab)
-  ![Windows](http://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-  ![Linux](http://img.shields.io/badge/Ubuntu-white?style=flat-square&logo=ubuntu)
+
+| | |
+|---|---|
+| ☁️ **Cloud Architecture & Migration** | Multi-account, Landing Zone, Well-Architected Reviews |
+| 🤖 **GenAI / Bedrock** | RAG, Knowledge Bases, Agents, guardrails — POC to production |
+| ⚙️ **DevOps & Platform Engineering** | CI/CD, GitOps, EKS, Terraform modules, observability |
+| 💰 **FinOps & Cost Optimization** | Rightsizing, Savings Plans, measurable ROI |
+| 🔒 **Security & Compliance** | IAM hardening, GuardDuty, Security Hub, SOC2/ISO 27001 |
+| 🏗️ **Managed Services** | Monitoring, incident response, patching, optimization |
+
 </div>
 
-<h2 align="center"> :trophy: My Github Stats: </h2>
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
   <a href="https://github.com/nicolasmatos">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolasmatos&theme=monokai">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolasmatos&theme=react" alt="Profile summary">
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/nicolasmatos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasmatos&count_private=true&include_all_commits=true&hide=contribs,prs&show_icons=true&theme=react">
+    <img src="https://github-readme-stats.vercel.app/api?username=nicolasmatos&count_private=true&include_all_commits=true&hide=contribs,prs&show_icons=true&theme=react" alt="GitHub stats">
   </a>
   <a href="https://github.com/nicolasmatos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmatos&count_private=true&include_all_commits=true&layout=compact&theme=react">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmatos&count_private=true&include_all_commits=true&layout=compact&theme=react" alt="Top languages">
   </a>
 </div>
 <div align="center">
-  <a href=https://github.com/nicolasmatos">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasmatos&theme=react&date_format=j%20M%5B%20Y%5D">
-  </a>
-  <!--
   <a href="https://github.com/nicolasmatos">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=nicolasmatos&theme=radical">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasmatos&theme=react&date_format=j%20M%5B%20Y%5D" alt="GitHub streak">
   </a>
-  /-->
 </div>
 <div align="center">
-  <div data-image="https://raw.githubusercontent.com/nicolasmatos/nicolasmatos/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/nicolasmatos/nicolasmatos/output/github-contribution-grid-snake.svg">
-  </div>
+  <img src="https://raw.githubusercontent.com/nicolasmatos/nicolasmatos/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
+---
 
-<h2 align="center"> :trophy: Emblems: </h2>
-<h3 align="center">Jornada Devop de Elite Outubro 2022</h3>
+<h2 align="center">🎖️ Emblems — Jornada DevOps de Elite</h2>
+
 <div align="center">
-<a href="https://api.badgr.io/public/assertions/JZwob1TuT62PhW3FfvsmDg?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/JZwob1TuT62PhW3FfvsmDg/image"></a>
-
-<a href="https://api.badgr.io/public/assertions/phmJvaeqTRWbM5NHERwZAg?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/phmJvaeqTRWbM5NHERwZAg/image"></a>
-
-<a href="https://api.badgr.io/public/assertions/479dB-1BSFOnT2i05LuXtA?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/479dB-1BSFOnT2i05LuXtA/image"></a>
-
-<a href="https://api.badgr.io/public/assertions/Mb3vtfQzTpa1kywK8TT3xA?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/Mb3vtfQzTpa1kywK8TT3xA/image"></a>
-
-<a href="https://api.badgr.io/public/assertions/hFfdpokwSUysw75zlLTf0g?identity__email=nicolasmatos0905%40gmail.com" target="_blank"> 
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/hFfdpokwSUysw75zlLTf0g/image" /></a> 
+  <a href="https://api.badgr.io/public/assertions/JZwob1TuT62PhW3FfvsmDg" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/JZwob1TuT62PhW3FfvsmDg/image" alt="DevOps Elite badge"></a>
+  <a href="https://api.badgr.io/public/assertions/phmJvaeqTRWbM5NHERwZAg" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/phmJvaeqTRWbM5NHERwZAg/image" alt="DevOps Elite badge"></a>
+  <a href="https://api.badgr.io/public/assertions/479dB-1BSFOnT2i05LuXtA" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/479dB-1BSFOnT2i05LuXtA/image" alt="DevOps Elite badge"></a>
+  <a href="https://api.badgr.io/public/assertions/Mb3vtfQzTpa1kywK8TT3xA" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/Mb3vtfQzTpa1kywK8TT3xA/image" alt="DevOps Elite badge"></a>
+  <a href="https://api.badgr.io/public/assertions/hFfdpokwSUysw75zlLTf0g" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/hFfdpokwSUysw75zlLTf0g/image" alt="DevOps Elite badge"></a>
 </div>
-<h3 align="center">Jornada Devop de Elite Janeiro 2023</h3>
 <div align="center">
-<a href="https://api.badgr.io/public/assertions/wrmCS6dqSum6Oi7aPGDzbw?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/wrmCS6dqSum6Oi7aPGDzbw/image"></a>
-
-<a href="https://api.badgr.io/public/assertions/u9QmSk9RQp29mQFXHy6PJQ?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/u9QmSk9RQp29mQFXHy6PJQ/image"></a>
-														   
-<a href="https://api.badgr.io/public/assertions/zlAHTWsqTD-frP3vYelsfA?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/zlAHTWsqTD-frP3vYelsfA/image"></a>
-														   
-<a href="https://api.badgr.io/public/assertions/ZFTO3oJeQcqlccN6AsAgsg?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/ZFTO3oJeQcqlccN6AsAgsg/image"></a>
-														   
-<a href="https://api.badgr.io/public/assertions/wDTYsQmBT8aSPO8OibuvZg?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/wDTYsQmBT8aSPO8OibuvZg/image"></a>
-														   
+  <a href="https://api.badgr.io/public/assertions/wrmCS6dqSum6Oi7aPGDzbw" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/wrmCS6dqSum6Oi7aPGDzbw/image" alt="DevOps Elite badge"></a>
+  <a href="https://api.badgr.io/public/assertions/u9QmSk9RQp29mQFXHy6PJQ" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/u9QmSk9RQp29mQFXHy6PJQ/image" alt="DevOps Elite badge"></a>
+  <a href="https://api.badgr.io/public/assertions/zlAHTWsqTD-frP3vYelsfA" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/zlAHTWsqTD-frP3vYelsfA/image" alt="DevOps Elite badge"></a>
+  <a href="https://api.badgr.io/public/assertions/ZFTO3oJeQcqlccN6AsAgsg" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/ZFTO3oJeQcqlccN6AsAgsg/image" alt="DevOps Elite badge"></a>
+  <a href="https://api.badgr.io/public/assertions/wDTYsQmBT8aSPO8OibuvZg" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/wDTYsQmBT8aSPO8OibuvZg/image" alt="DevOps Elite badge"></a>
 </div>
-<h3 align="center">Jornada Devop de Elite Abril 2023</h3>
 <div align="center">
-<a href="https://api.badgr.io/public/assertions/-YDgpUluQ5anO7Yek3jQuQ?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://matos.dev.br/badges/DevOpsElite202304/1docker.png"></a>
-													 
-<a href="https://api.badgr.io/public/assertions/HR8QL1XeQVWVnSlxH9O5EQ?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://matos.dev.br/badges/DevOpsElite202304/2kubernetes.png"></a>													 
-<a href="https://api.badgr.io/public/assertions/akenthZpScOYCvIf9nczHw?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://matos.dev.br/badges/DevOpsElite202304/3terrafom.png"></a>							 
-<a href="https://api.badgr.io/public/assertions/xmjuY0hlSySJi2yPrJNefA?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://matos.dev.br/badges/DevOpsElite202304/4CICD.png"></a>
-							 
-<a href="https://api.badgr.io/public/assertions/K2_-HI0LRTiJxh-3pD1o7w?identity__email=nicolasmatos0905%40gmail.com" target="_blank">
-	<img width="120px" height="120px" src="https://matos.dev.br/badges/DevOpsElite202304/5prometheusgrafana.png"></a>
-														   
+  <a href="https://api.badgr.io/public/assertions/-YDgpUluQ5anO7Yek3jQuQ" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://matos.dev.br/badges/DevOpsElite202304/1docker.png" alt="Docker"></a>
+  <a href="https://api.badgr.io/public/assertions/HR8QL1XeQVWVnSlxH9O5EQ" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://matos.dev.br/badges/DevOpsElite202304/2kubernetes.png" alt="Kubernetes"></a>
+  <a href="https://api.badgr.io/public/assertions/akenthZpScOYCvIf9nczHw" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://matos.dev.br/badges/DevOpsElite202304/3terrafom.png" alt="Terraform"></a>
+  <a href="https://api.badgr.io/public/assertions/xmjuY0hlSySJi2yPrJNefA" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://matos.dev.br/badges/DevOpsElite202304/4CICD.png" alt="CI/CD"></a>
+  <a href="https://api.badgr.io/public/assertions/K2_-HI0LRTiJxh-3pD1o7w" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://matos.dev.br/badges/DevOpsElite202304/5prometheusgrafana.png" alt="Prometheus & Grafana"></a>
+</div>
+
+---
+
+<h2 align="center">🤝 Connect</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nicolasmatos-ia" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://matos.dev.br" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/matos.dev.br-0F4761?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="mailto:nicolas@matos.dev.br">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/5585991592481" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://github.com/nicolasmatos" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
