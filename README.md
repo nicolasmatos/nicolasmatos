@@ -58,7 +58,8 @@ enterprise solution architecture and technical team leadership.
 </p>
 <!-- CERTS:END -->
 
-> The block above is kept in sync automatically from the public [Credly](https://www.credly.com/users/nicolasmatos/badges) feed by a scheduled GitHub Action.
+<!-- The CERTS block above is kept in sync automatically from the public Credly feed (https://www.credly.com/users/nicolasmatos/badges) by the scheduled GitHub Action .github/workflows/update-certs.yml. -->
+
 
 ---
 
@@ -125,32 +126,6 @@ enterprise solution architecture and technical team leadership.
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/nicolasmatos/nicolasmatos/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
-
----
-
-<h2 align="center">🎖️ Emblems — Jornada DevOps de Elite</h2>
-
-<div align="center">
-  <a href="https://api.badgr.io/public/assertions/JZwob1TuT62PhW3FfvsmDg" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/JZwob1TuT62PhW3FfvsmDg/image" alt="DevOps Elite badge"></a>
-  <a href="https://api.badgr.io/public/assertions/phmJvaeqTRWbM5NHERwZAg" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/phmJvaeqTRWbM5NHERwZAg/image" alt="DevOps Elite badge"></a>
-  <a href="https://api.badgr.io/public/assertions/479dB-1BSFOnT2i05LuXtA" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/479dB-1BSFOnT2i05LuXtA/image" alt="DevOps Elite badge"></a>
-  <a href="https://api.badgr.io/public/assertions/Mb3vtfQzTpa1kywK8TT3xA" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/Mb3vtfQzTpa1kywK8TT3xA/image" alt="DevOps Elite badge"></a>
-  <a href="https://api.badgr.io/public/assertions/hFfdpokwSUysw75zlLTf0g" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/hFfdpokwSUysw75zlLTf0g/image" alt="DevOps Elite badge"></a>
-</div>
-<div align="center">
-  <a href="https://api.badgr.io/public/assertions/wrmCS6dqSum6Oi7aPGDzbw" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/wrmCS6dqSum6Oi7aPGDzbw/image" alt="DevOps Elite badge"></a>
-  <a href="https://api.badgr.io/public/assertions/u9QmSk9RQp29mQFXHy6PJQ" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/u9QmSk9RQp29mQFXHy6PJQ/image" alt="DevOps Elite badge"></a>
-  <a href="https://api.badgr.io/public/assertions/zlAHTWsqTD-frP3vYelsfA" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/zlAHTWsqTD-frP3vYelsfA/image" alt="DevOps Elite badge"></a>
-  <a href="https://api.badgr.io/public/assertions/ZFTO3oJeQcqlccN6AsAgsg" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/ZFTO3oJeQcqlccN6AsAgsg/image" alt="DevOps Elite badge"></a>
-  <a href="https://api.badgr.io/public/assertions/wDTYsQmBT8aSPO8OibuvZg" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://api.badgr.io/public/assertions/wDTYsQmBT8aSPO8OibuvZg/image" alt="DevOps Elite badge"></a>
-</div>
-<div align="center">
-  <a href="https://api.badgr.io/public/assertions/-YDgpUluQ5anO7Yek3jQuQ" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://matos.dev.br/badges/DevOpsElite202304/1docker.png" alt="Docker"></a>
-  <a href="https://api.badgr.io/public/assertions/HR8QL1XeQVWVnSlxH9O5EQ" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://matos.dev.br/badges/DevOpsElite202304/2kubernetes.png" alt="Kubernetes"></a>
-  <a href="https://api.badgr.io/public/assertions/akenthZpScOYCvIf9nczHw" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://matos.dev.br/badges/DevOpsElite202304/3terrafom.png" alt="Terraform"></a>
-  <a href="https://api.badgr.io/public/assertions/xmjuY0hlSySJi2yPrJNefA" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://matos.dev.br/badges/DevOpsElite202304/4CICD.png" alt="CI/CD"></a>
-  <a href="https://api.badgr.io/public/assertions/K2_-HI0LRTiJxh-3pD1o7w" target="_blank" rel="noopener noreferrer"><img width="110" height="110" src="https://matos.dev.br/badges/DevOpsElite202304/5prometheusgrafana.png" alt="Prometheus & Grafana"></a>
 </div>
 
 ---
